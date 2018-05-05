@@ -1,7 +1,11 @@
+# macos
+.DS_Store
+
 # Prerequisites
 *.d
 
 # Object files
+o/*
 *.o
 *.ko
 *.obj
